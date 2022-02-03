@@ -1,0 +1,35 @@
+div{
+    width: 200px;
+    border: 2px black;
+    border-radius: 30px;
+    background-color: crimson;
+    text-align: center;
+
+}
+
+img{
+    width: 150px;
+    
+    border: 2px solid blue ;
+
+
+}
+
+
+h1{
+
+    font-family: cursive;
+    letter-spacing: 10px;
+    text-decoration: underline overline;
+    color: black;
+
+
+}
+
+
+
+h2{
+
+    font-family: fantasy;
+    font-size: smaller;
+}
